@@ -52,7 +52,7 @@ WordCloud for word count of each class
 - Overwhelmingly, the majority of Tweets express support for climate change.
 - An intriguing observation from the word cloud analysis is the prominence of terms like "climate change" and "global warming," indicating their frequent mention in tweet messages.
 
-#Recommendations:
+# Recommendations:
 - Focus on Climate Change Supporters
 - Trend-Dependent Word Differentiation:
 - Develop a tool to automatically discern words used by climate change believers and skeptics based on current trends.
